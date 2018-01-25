@@ -23,11 +23,11 @@ int main(){
 	std::cout<<c<<std::endl;
 	c=42;
 	std::cout<<c<<std::endl;
-	//taking point from integer without a cast
+	//taking pointer from integer without a cast
 	/*std::cout<<d<<std::endl;
 	d=42;
 	std::cout<<d<<std::endl;*/
-	//taking point from integer without a cast
+	//taking pointer from integer without a cast
 	/*std::cout<<e<<std::endl;
 	e=42;
 	std::cout<<e<<std::endl;*/
