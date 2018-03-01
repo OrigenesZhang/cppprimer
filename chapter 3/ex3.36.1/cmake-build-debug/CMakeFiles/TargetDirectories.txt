@@ -1,0 +1,3 @@
+E:/C++primer/cppprimer/chapter 3/ex3.36.1/cmake-build-debug/CMakeFiles/ex3_36_1.dir
+E:/C++primer/cppprimer/chapter 3/ex3.36.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C++primer/cppprimer/chapter 3/ex3.36.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
