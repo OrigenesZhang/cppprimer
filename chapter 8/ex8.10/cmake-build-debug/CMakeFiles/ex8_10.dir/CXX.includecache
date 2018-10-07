@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/C++primer/cppprimer/chapter 8/ex8.10/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+
