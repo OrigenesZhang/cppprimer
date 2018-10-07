@@ -18,7 +18,7 @@ bool valid(const std::string &nums) {
 }
 
 std::string format(const std::string &nums) {
-    return '+' + nums.substr(0, 2) + '-' + nums.substr(2, 6) + '-' + nums.substr(6, 10);
+    return '+' + nums.substr(0, 2) + '-' + nums.substr(2, 4) + '-' + nums.substr(6, 4);
 }
 
 int main() {
